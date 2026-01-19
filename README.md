@@ -2,7 +2,7 @@
 
 Sample Superstore Data Analysis
 
-##📌 Project Overview
+## 📌 Project Overview
 
 The Sample Superstore Data Analysis project focuses on analyzing retail sales data to understand sales performance, profit trends, customer behavior, and regional insights.
 Using exploratory data analysis (EDA), this project identifies key factors affecting profitability and business growth.
@@ -10,7 +10,7 @@ Using exploratory data analysis (EDA), this project identifies key factors affec
 The project follows a traditional analytical approach while using modern data analysis tools to derive meaningful insights.
 
 
-##Project Objectives
+## Project Objectives
 
 
 -Analyze overall sales and profit performance
