@@ -1,6 +1,5 @@
 # Sample-Superstore-Data-Analysis
 
-Sample Superstore Data Analysis
 
 ## 📌 Project Overview
 
@@ -13,19 +12,18 @@ The project follows a traditional analytical approach while using modern data an
 ## Project Objectives
 
 
--Analyze overall sales and profit performance
+- Analyze overall sales and profit performance
 
--Identify high-performing and low-performing product categories
+- Identify high-performing and low-performing product categories
 
--Study regional and state-wise sales trends
+- Study regional and state-wise sales trends
 
--Understand customer segments and order behavior
+- Understand customer segments and order behavior
 
--Discover loss-making products and regions
+- Discover loss-making products and regions
 
 
-##Tech Stack
-
+## Tech Stack
 
 Python
 
@@ -39,7 +37,7 @@ Matplotlib / Seaborn
 
 CSV Dataset
 
-##📊 Key Analysis Performed
+## 📊 Key Analysis Performed
 
 Sales and profit analysis
 
@@ -53,7 +51,7 @@ Discount vs profit relationship
 
 Identification of loss-making orders
 
-🗂️ Dataset Information
+## 🗂️ Dataset Information
 
 Dataset Name: Sample Superstore
 
@@ -65,7 +63,7 @@ Records Include: Orders, customers, products, sales, profit, discounts
 
 Usage: Educational and analytical purposes only
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 Clone or download the repository
 
@@ -75,7 +73,7 @@ Load Untitled.ipynb
 
 Run cells sequentially to view analysis and visualizations
 
-📘 Learning Outcomes
+## 📘 Learning Outcomes
 
 Strong understanding of EDA techniques
 
@@ -85,15 +83,15 @@ Improved data visualization skills
 
 Business-oriented analytical thinking
 
-Screenshot dataload
+### Screenshot dataload
 <img width="1686" height="652" alt="Screenshot 2026-01-19 192418" src="https://github.com/user-attachments/assets/34eee0b4-004e-487f-b972-99546e9a8021" />
 
-ScreenShot Graph
+### ScreenShot Graph
 <img width="1705" height="721" alt="Screenshot 2026-01-19 192354" src="https://github.com/user-attachments/assets/6f689271-ac78-4c66-bc0a-dfec8a8a4ebc" />
 
-Cover Question
+### Cover Question
 <img width="1661" height="432" alt="Screenshot 2026-01-19 192329" src="https://github.com/user-attachments/assets/63617781-00d4-47d9-8f3a-31d519d9d9da" />
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates how retail data can be transformed into actionable business insights using exploratory data analysis.
