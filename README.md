@@ -1,6 +1,7 @@
 # Sample-Superstore-Data-Analysis
 
 Sample Superstore Data Analysis
+
 📌 Project Overview
 
 The Sample Superstore Data Analysis project focuses on analyzing retail sales data to understand sales performance, profit trends, customer behavior, and regional insights.
