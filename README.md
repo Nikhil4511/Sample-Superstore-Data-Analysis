@@ -25,63 +25,63 @@ The project follows a traditional analytical approach while using modern data an
 
 ## Tech Stack
 
-Python
+- Python
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib / Seaborn
+- Matplotlib / Seaborn
 
-CSV Dataset
+- CSV Dataset
 
 ## 📊 Key Analysis Performed
 
-Sales and profit analysis
+- Sales and profit analysis
 
-Category & sub-category performance
+- Category & sub-category performance
 
-Region-wise and state-wise comparison
+- Region-wise and state-wise comparison
 
-Customer segment analysis
+- Customer segment analysis
 
-Discount vs profit relationship
+- Discount vs profit relationship
 
-Identification of loss-making orders
+- Identification of loss-making orders
 
 ## 🗂️ Dataset Information
 
-Dataset Name: Sample Superstore
+- Dataset Name: Sample Superstore
 
-File: Sample - Superstore.csv
+- File: Sample - Superstore.csv
 
-Type: Retail sales data
+- Type: Retail sales data
 
-Records Include: Orders, customers, products, sales, profit, discounts
+- Records Include: Orders, customers, products, sales, profit, discounts
 
-Usage: Educational and analytical purposes only
+- Usage: Educational and analytical purposes only
 
 ## 🚀 How to Run the Project
 
-Clone or download the repository
+- Clone or download the repository
 
-Open Jupyter Notebook
+- Open Jupyter Notebook
 
-Load Untitled.ipynb
+- Load Untitled.ipynb
 
-Run cells sequentially to view analysis and visualizations
+- Run cells sequentially to view analysis and visualizations
 
 ## 📘 Learning Outcomes
 
-Strong understanding of EDA techniques
+- Strong understanding of EDA techniques
 
-Hands-on experience with real-world retail data
+- Hands-on experience with real-world retail data
 
-Improved data visualization skills
+- Improved data visualization skills
 
-Business-oriented analytical thinking
+- Business-oriented analytical thinking
 
 ### Screenshot dataload
 <img width="1686" height="652" alt="Screenshot 2026-01-19 192418" src="https://github.com/user-attachments/assets/34eee0b4-004e-487f-b972-99546e9a8021" />
