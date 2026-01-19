@@ -13,15 +13,15 @@ The project follows a traditional analytical approach while using modern data an
 ##Project Objectives
 
 
-Analyze overall sales and profit performance
+-Analyze overall sales and profit performance
 
-Identify high-performing and low-performing product categories
+-Identify high-performing and low-performing product categories
 
-Study regional and state-wise sales trends
+-Study regional and state-wise sales trends
 
-Understand customer segments and order behavior
+-Understand customer segments and order behavior
 
-Discover loss-making products and regions
+-Discover loss-making products and regions
 
 
 ##Tech Stack
