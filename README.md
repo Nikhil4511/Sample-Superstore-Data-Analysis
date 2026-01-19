@@ -9,7 +9,7 @@ Using exploratory data analysis (EDA), this project identifies key factors affec
 
 The project follows a traditional analytical approach while using modern data analysis tools to derive meaningful insights.
 
-🎯 Project Objectives
+Project Objectives
 
 Analyze overall sales and profit performance
 
@@ -21,7 +21,7 @@ Understand customer segments and order behavior
 
 Discover loss-making products and regions
 
-🧰 Tech Stack
+Tech Stack
 
 Python
 
